@@ -1,13 +1,3 @@
-# React Assignment 2: PokeDeh
-
-Untuk exercise kali ini, silakan teman-teman buka file `src\App.js`, jangan lupa untuk menjalankan `pnpm start` untuk menjalankan server Reactnya.
-
-Untuk menjalankan test-casenya, selain bisa menggunakan `grader-cli test`, teman-teman juga bisa menggunakan `pnpm test`.
-
-## Styling
-
-Gunakan Chakra-UI, disarankan bermain-main dengan komponen-komponen menarik Chakra UI di [sini](https://chakra-ui.com/docs/components). Diperbolehkan juga mengganti warna. Mari jadikan web kamu menarik :D
-
 ## Routing
 
 Kita memiliki 3 halaman:
